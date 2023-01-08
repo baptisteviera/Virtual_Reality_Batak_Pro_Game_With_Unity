@@ -1,5 +1,6 @@
 # VR_Batak_Pro_Game_With_Unity
 
-We are currently working on this project.
 
-We are building the classic Batak Pro Game in VR and a funny alternative of the game too.
+We built the Batak Pro Game in VR and evaluated the impact of music on performance.
+
+This project was made in automne 2022.
